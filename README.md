@@ -2,4 +2,5 @@
 
 Hello and welcome to Peggy Tadi's challenge!
 
-j'ai pas réussi à montrer les dupes. À  refaire
+Formulas that we did not see in class :
+* duplicate() - https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/amp/
